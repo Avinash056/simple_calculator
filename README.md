@@ -12,3 +12,4 @@ The calculator performs four primary operations:
     Multiplication: By using the * operator, the calculator multiplies the two numbers, which demonstrates the concept of repeated addition.
 
     Division: The division operation, indicated by the / operator, divides one number by another. The program must handle special cases, such as division by zero, by implementing error checking to prevent runtime errors.
+https://github.com/Avinash056/simple_calculator.git
